@@ -1,7 +1,7 @@
 ﻿
 # What is it?
 
-YoutubeDlWebui (abreviated to ytdlwui) is a (simple) frontend to the [youtube-dl](http://rg3.github.com/youtube-dl/) unix command.
+YoutubeDlWebui (abbreviated to ytdlwui) is a (simple) frontend to the [youtube-dl](http://rg3.github.com/youtube-dl/) unix command.
 
 This frontend provide a simple webpage to have a video downloaded, and receive a link to this video by mail.
 
